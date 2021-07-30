@@ -1,14 +1,14 @@
 {
   "name": "express-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is express server code snippet",
   "main": "index.js",
   "scripts": {
     "start-mon": "nodemon app.js",
     "start-node": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Harshkumar Vishwakarma",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
